@@ -1,3 +1,9 @@
 # Introduction
 
-In the world of version control systems, Git has emerged as one of the most popular and widely used tools. It offers a range of powerful features that enable developers to manage their source code efficiently. Two commonly used commands in Git are “git switch” and “git checkout.” While they may seem similar, there are important differences between them that every developer should be aware of. In this article, we will dive deep into the nuances of “git switch” vs “git checkout” and explore the best practices associated with each command.
+Git Fundamentals. 
+- A best practice guide on how to use git.
+- How to keep track of your project versions.
+- Perfomed two practical exercises.
+
+## Resources shared:
+https://medium.com/@umar.bwn/git-switch-vs-checkout-understanding-the-differences-and-best-practices-f421c232379c
